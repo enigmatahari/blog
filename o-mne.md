@@ -3,6 +3,6 @@ layout: page
 title: O mně
 permalink: /o-mne/
 ---
-__tak tohle bude kurzivou__
+_ _tak tohle bude kurzivou_ _
 **tohle bude tučně**
 Tady napiš něco o sobě nebo o svém blogu!
